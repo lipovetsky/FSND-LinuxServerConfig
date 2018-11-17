@@ -6,20 +6,21 @@ This is the final project for Udacity's FSND. It's all about setting up a Linux 
 ## IP + URL
 
 http://54.204.197.81
+
 http://54.204.197.81.xip.io (for login access)
 
 ## Software Installed
 
 This project required software and python packages to be installed. Here is a rundown of some the major ones:
 -Git
--VirtualEnv
--PostgreSQL
--Pip for Python
--Flask
--SQL-Alchemy
--Flask-Bootstrap
--OAuth
--Mod_WSGI
+-VirtualEnv\
+-PostgreSQL\
+-Pip for Python\
+-Flask\
+-SQL-Alchemy\
+-Flask-Bootstrap\
+-OAuth\
+-Mod_WSGI\
 
 ## Configurations
 
