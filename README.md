@@ -12,7 +12,7 @@ http://54.204.197.81.xip.io (for login access)
 ## Software Installed
 
 This project required software and python packages to be installed. Here is a rundown of some the major ones:
--Git
+-Git\
 -VirtualEnv\
 -PostgreSQL\
 -Pip for Python\
@@ -20,17 +20,17 @@ This project required software and python packages to be installed. Here is a ru
 -SQL-Alchemy\
 -Flask-Bootstrap\
 -OAuth\
--Mod_WSGI\
+-Mod_WSGI
 
 ## Configurations
 
--I updated packages with sudo apt-get update and sudo apt-get upgrade
--I used SSH-Keygen to create a new public/private key for the user named 'grader'.
--I made sure root remote SSH access was disabled.
--I installed a Virtual Environment for all python related software and tasks.
--I set up the firewall for ports 80, 123, and 2200.
--Made sure local timezone was UTC.
--Configured PostgreSQL for the application, and created a new user named 'catalog' with limited privileges to database named 'greatbooks' for the Flask App.
+-I updated packages with sudo apt-get update and sudo apt-get upgrade.\
+-I used SSH-Keygen to create a new public/private key for the user named 'grader'.\
+-I made sure root remote SSH access was disabled.\
+-I installed a Virtual Environment for all python related software and tasks.\
+-I set up the firewall for ports 80, 123, and 2200.\
+-Made sure local timezone was UTC.\
+-Configured PostgreSQL for the application, and created a new user named 'catalog' with limited privileges to database named 'greatbooks' for the Flask App.\
 -Configured the wsgi file to host the flask application.
 
 ## Third-party links and resources used for assistance
@@ -38,14 +38,14 @@ This project required software and python packages to be installed. Here is a ru
 Resources used for Linux:
 
 https://www.linux.com/learn/linux-101-updating-your-system
-https://askubuntu.com/questions/222348/what-does-sudo-apt-get-update-do
+https://askubuntu.com/questions/222348/what-does-sudo-apt-get-update-do\
 -For Updating the System
 
 https://www.godaddy.com/help/changing-the-ssh-port-for-your-linux-server-7306
-http://www.linuxlookup.com/howto/change_default_ssh_port
+http://www.linuxlookup.com/howto/change_default_ssh_port\
 -For changing SSH port
 
-https://stackoverflow.com/questions/46028907/how-do-i-connect-to-a-new-amazon-lightsail-instance-from-my-mac?rq=1
+https://stackoverflow.com/questions/46028907/how-do-i-connect-to-a-new-amazon-lightsail-instance-from-my-mac?rq=1\
 -Connecting to Lightsail Instance from Terminal
 
 https://unix.stackexchange.com/questions/210228/add-a-user-wthout-password-but-with-ssh-and-public-key
