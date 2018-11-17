@@ -38,11 +38,13 @@ This project required software and python packages to be installed. Here is a ru
 Resources used for Linux:
 
 https://www.linux.com/learn/linux-101-updating-your-system
-https://askubuntu.com/questions/222348/what-does-sudo-apt-get-update-do\
+
+https://askubuntu.com/questions/222348/what-does-sudo-apt-get-update-do \
 -For Updating the System
 
 https://www.godaddy.com/help/changing-the-ssh-port-for-your-linux-server-7306
-http://www.linuxlookup.com/howto/change_default_ssh_port\
+
+http://www.linuxlookup.com/howto/change_default_ssh_port \
 -For changing SSH port
 
 https://stackoverflow.com/questions/46028907/how-do-i-connect-to-a-new-amazon-lightsail-instance-from-my-mac?rq=1\
