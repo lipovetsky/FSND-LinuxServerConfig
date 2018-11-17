@@ -37,23 +37,21 @@ This project required software and python packages to be installed. Here is a ru
 
 Resources used for Linux:
 
-https://www.linux.com/learn/linux-101-updating-your-system
-
+https://www.linux.com/learn/linux-101-updating-your-system \
 https://askubuntu.com/questions/222348/what-does-sudo-apt-get-update-do \
--For Updating the System
+-For Updating the System \
 
-https://www.godaddy.com/help/changing-the-ssh-port-for-your-linux-server-7306
-
+https://www.godaddy.com/help/changing-the-ssh-port-for-your-linux-server-7306 \
 http://www.linuxlookup.com/howto/change_default_ssh_port \
--For changing SSH port
+-For changing SSH port \
 
-https://stackoverflow.com/questions/46028907/how-do-i-connect-to-a-new-amazon-lightsail-instance-from-my-mac?rq=1\
--Connecting to Lightsail Instance from Terminal
+https://stackoverflow.com/questions/46028907/how-do-i-connect-to-a-new-amazon-lightsail-instance-from-my-mac?rq=1 \
+-Connecting to Lightsail Instance from Terminal \
 
-https://unix.stackexchange.com/questions/210228/add-a-user-wthout-password-but-with-ssh-and-public-key
-https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
-https://www.digitalocean.com/community/questions/ubuntu-16-04-creating-new-user-and-adding-ssh-keys
--Adding User with SSH-Keygen
+https://unix.stackexchange.com/questions/210228/add-a-user-wthout-password-but-with-ssh-and-public-key \
+https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2 \
+https://www.digitalocean.com/community/questions/ubuntu-16-04-creating-new-user-and-adding-ssh-keys \
+-Adding User with SSH-Keygen \
 
 https://www.godaddy.com/help/remove-a-linux-user-19158
 -Deleting user
